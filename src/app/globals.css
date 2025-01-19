@@ -2,20 +2,41 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Inter", sans-serif;
+  user-select: none;
+  --webkit-user-select: none;
+}
+
+@layer base {
+  :root {
+    --black: black;
+    /* --primary: #011f44; */
+    --primary: #03397a;
+    --primary-light: #ffffff0d;
+    /* --orange: #feaf6b;
+    --dark-violet: #422439;
+    --light-blue: #b2ddf2;
+    --secondary: #ffe3c2;
+    --secondary-light: #fff5eb;
+    --white: white;
+    --white-80: #fffc;
+    --dark-border-gray: #8a8a8a;
+
+    --white-40: #fff6;
+    --yellow: #fbc73b; */
+    --orange: #fdb277; /* Slightly darker orange */
+    --dark-violet: #4a2c4f; /* Slightly lighter violet */
+    --light-blue: #a1cce3; /* Lighter blue */
+    --secondary: #ffd8a6; /* A bit more muted yellow */
+    --secondary-light: #fff0da; /* Softer light secondary */
+    --white: #ffffff; /* Keeping white as is */
+    --white-80: #fdfcfc; /* Softer white */
+    --dark-border-gray: #7e7e7e; /* Slightly darker gray */
+
+    --white-40: #fff8f8; /* A softer transparent white */
+    --yellow: #f1b73a; /* Slightly darker yellow */
+  }
+  .dark {
+  }
 }
