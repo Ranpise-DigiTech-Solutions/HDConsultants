@@ -13,7 +13,8 @@ const GetStartedComponent = () => {
           <div className="flex flex-col items-center justify-center gap-6">
             <Image
               src={
-                "https://cdn.prod.website-files.com/6645b9ebc60bab424a1883aa/6645d2fdfd50f5064c03a5de_jason-goodman-nF0nQuqBsrI-unsplash%20(1).webp"
+                // "https://cdn.prod.website-files.com/6645b9ebc60bab424a1883aa/6645d2fdfd50f5064c03a5de_jason-goodman-nF0nQuqBsrI-unsplash%20(1).webp"
+                "/images/office_img_1.jpg"
               }
               alt="img1"
               width={0}
@@ -25,7 +26,8 @@ const GetStartedComponent = () => {
             />
             <Image
               src={
-                "https://cdn.pixabay.com/photo/2024/06/09/14/44/ai-generated-8818860_960_720.jpg"
+                // "https://cdn.pixabay.com/photo/2024/06/09/14/44/ai-generated-8818860_960_720.jpg"
+                "/images/office_img_2.jpg"
               }
               alt="img1"
               width={0}
@@ -51,7 +53,8 @@ const GetStartedComponent = () => {
             /> */}
             <Image
               src={
-                "https://plus.unsplash.com/premium_photo-1661326247701-df5ad0c5d244?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                // "https://plus.unsplash.com/premium_photo-1661326247701-df5ad0c5d244?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                "/images/office_img_3.jpg"
               }
               alt="img2"
               width={0}
@@ -63,7 +66,8 @@ const GetStartedComponent = () => {
             />
             <Image
               src={
-                "https://plus.unsplash.com/premium_photo-1664476794112-15afc6de2e0f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                // "https://plus.unsplash.com/premium_photo-1664476794112-15afc6de2e0f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                "/images/office_img_4.jpg"
               }
               alt="img2"
               width={0}
@@ -117,7 +121,8 @@ const GetStartedComponent = () => {
             /> */}
             <Image
               src={
-                "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                // "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                "/images/office_img_5.jpg"
               }
               alt="img1"
               width={0}
@@ -129,7 +134,8 @@ const GetStartedComponent = () => {
             />
             <Image
               src={
-                "https://images.unsplash.com/photo-1544725121-be3bf52e2dc8?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                // "https://images.unsplash.com/photo-1544725121-be3bf52e2dc8?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                "/images/office_img_6.jpg"
               }
               alt="img1"
               width={0}
@@ -143,7 +149,8 @@ const GetStartedComponent = () => {
           <div className="flex flex-col items-center justify-center gap-6">
             <Image
               src={
-                "https://images.unsplash.com/photo-1554260570-e9689a3418b8?q=80&w=1782&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                // "https://images.unsplash.com/photo-1554260570-e9689a3418b8?q=80&w=1782&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                "/images/office_img_7.jpg"
               }
               alt="img2"
               width={0}
@@ -183,7 +190,8 @@ const GetStartedComponent = () => {
             /> */}
             <Image
               src={
-                "https://cdn.prod.website-files.com/6645b9ebc60bab424a1883aa/6645d2fdfd50f5064c03a5de_jason-goodman-nF0nQuqBsrI-unsplash%20(1).webp"
+                // "https://cdn.prod.website-files.com/6645b9ebc60bab424a1883aa/6645d2fdfd50f5064c03a5de_jason-goodman-nF0nQuqBsrI-unsplash%20(1).webp"
+                "/images/office_img_1.jpg"
               }
               alt="img1"
               width={0}
@@ -195,7 +203,8 @@ const GetStartedComponent = () => {
             />
             <Image
               src={
-                "https://cdn.pixabay.com/photo/2024/06/09/14/44/ai-generated-8818860_960_720.jpg"
+                // "https://cdn.pixabay.com/photo/2024/06/09/14/44/ai-generated-8818860_960_720.jpg"
+                "/images/office_img_2.jpg"
               }
               alt="img1"
               width={0}
@@ -209,7 +218,8 @@ const GetStartedComponent = () => {
           <div className="flex flex-col items-center justify-center gap-6">
             <Image
               src={
-                "https://plus.unsplash.com/premium_photo-1661326247701-df5ad0c5d244?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                // "https://plus.unsplash.com/premium_photo-1661326247701-df5ad0c5d244?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                "/images/office_img_3.jpg"
               }
               alt="img2"
               width={0}
@@ -221,7 +231,8 @@ const GetStartedComponent = () => {
             />
             <Image
               src={
-                "https://plus.unsplash.com/premium_photo-1664476794112-15afc6de2e0f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                // "https://plus.unsplash.com/premium_photo-1664476794112-15afc6de2e0f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                "/images/office_img_4.jpg"
               }
               alt="img2"
               width={0}
