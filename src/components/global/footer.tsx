@@ -60,7 +60,7 @@ const FooterComponent = () => {
               </div>
               <p className="text-wrap text-base lg:text-lg leading-6 lg:leading-7 text-white-80 text-center lg:text-start">
                 H & D Group Mangalore is a trusted name offering diverse
-                services, including manpower placement and outsourcing, finance
+                services, including manpower outsourcing, finance
                 consultancy, property management, and stock broking.
               </p>
               <div className="flex flex-row items-center justify-center gap-4">
@@ -156,11 +156,9 @@ const FooterComponent = () => {
                   services
                 </h3>
                 <ul className="flex flex-col items-center lg:items-start justify-center gap-4">
+                  
                   <li className="capitalize text-white-80 text-base lg:text-lg transform transition-all duration-300 hover:text-orange text-nowrap">
-                    manpower and placement service
-                  </li>
-                  <li className="capitalize text-white-80 text-base lg:text-lg transform transition-all duration-300 hover:text-orange text-nowrap">
-                    manpower and outsourcing
+                    manpower outsourcing
                   </li>
                   <li className="capitalize text-white-80 text-base lg:text-lg transform transition-all duration-300 hover:text-orange text-nowrap">
                     finance consultancy

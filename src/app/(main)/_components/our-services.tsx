@@ -17,24 +17,7 @@ const OurServicesComponent = () => {
           </h2>
         </div>
         <div className="w-full flex flex-row items-center justify-center flex-wrap gap-12">
-          <div className="group relative h-[450px] w-[350px] rounded-2xl flex items-end justify-end overflow-hidden cursor-not-allowed">
-            <Image
-              quality={100}
-              unoptimized
-              fill
-              objectFit="cover"
-              src={
-                "https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-              }
-              alt="img1"
-              className="transform transition-transform duration-1000 group-hover:scale-125"
-              draggable="false"
-            />
-            <div className="absolute inset-0 bg-black opacity-35 z-10 transform transition-all duration-1000 group-hover:opacity-50"></div>
-            <p className="w-[60%] text-center text-2xl text-white capitalize z-20 p-4 font-semibold">
-              Manpower and placement
-            </p>
-          </div>
+          
           <div className="group relative h-[450px] w-[350px] rounded-2xl flex items-end justify-end overflow-hidden cursor-not-allowed">
             <Image
               quality={100}
@@ -50,7 +33,7 @@ const OurServicesComponent = () => {
             />
             <div className="absolute inset-0 bg-black opacity-35 z-10 transform transition-all duration-1000 group-hover:opacity-50"></div>
             <p className="w-[60%] text-center text-2xl text-white capitalize z-20 p-4 font-semibold">
-              Manpower and outsourcing
+              Manpower outsourcing
             </p>
           </div>
           <div className="group relative h-[450px] w-[350px] rounded-2xl flex items-end justify-end overflow-hidden cursor-not-allowed">

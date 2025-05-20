@@ -89,7 +89,7 @@ const GetStartedComponent = () => {
           </div>
           <p className="text-wrap text-center text-white-80 text-base lg:text-lg leading-6 lg:leading-7">
             H&D Group, led by visionary entrepreneur Mr. Shylesh Kiran, offers
-            diverse services, including manpower placement and outsourcing,
+            diverse services, including manpower outsourcing,
             finance consultancy, property management, and stock broking. With
             years of experience and a commitment to excellence, we empower both
             clients and candidates to achieve success.

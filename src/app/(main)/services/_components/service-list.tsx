@@ -13,33 +13,7 @@ const ServiceListComponent = () => {
           <h2 className="text-4xl lg:text-5xl text-black">Services we can offer to you?</h2>
         </div>
         <div className="w-full flex flex-col lg:flex-row items-center justify-center gap-8 lg:gap-12 flex-wrap">
-          <div className="w-full lg:w-[400px] h-[275px] lg:h-[325px] bg-secondary rounded-2xl p-6 flex flex-col items-start justify-center gap-4">
-            <div className=" w-full flex items-center justify-start">
-              <Image
-                src={
-                  "https://cdn.pixabay.com/photo/2013/07/12/19/23/staff-154689_1280.png"
-                }
-                alt="img1"
-                width={0}
-                height={0}
-                quality={100}
-                unoptimized
-                className="w-auto h-[40px] lg:h-[50px] object-cover"
-              />
-            </div>
-            <h2 className="text-2xl lg:text-3xl capitalize">manpower and placement</h2>
-            <p className="text-wrap text-black text-base lg:text-lg leading-6 lg:leading-7">
-              We provide efficient recruitment solutions across industries, with
-              thorough assessments and timely delivery of skilled personnel
-              tailored to client needs.
-            </p>
-            <div className="group w-full flex flex-row items-center justify-start gap-2 cursor-pointer">
-              <p className="text-base capitalize transform transition-all duration-300 group-hover:underline underline-offset-2">
-                read more
-              </p>
-              <ArrowRight className="w-[20px] transform transition-transform duration-300 group-hover:translate-x-1" />
-            </div>
-          </div>
+          
           <div className="w-full lg:w-[400px] h-[275px] lg:h-[325px] bg-secondary rounded-2xl p-6 flex flex-col items-start justify-center gap-4">
             <div className="w-full flex items-center justify-start">
               <Image

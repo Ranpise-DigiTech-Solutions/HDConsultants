@@ -39,12 +39,7 @@ const AboutUsComponent = () => {
               of trust and excellence, we specialize in:
             </p>
             <ul className="list-decimal pl-4">
-              <li className="text-start text-wrap leading-6 lg:leading-7 text-base lg:text-lg text-black">
-                <span className="font-bold">
-                  Manpower and Placement Services:&nbsp;
-                </span>
-                Connecting talent with opportunity to drive growth and success.
-              </li>
+              
               <li className="text-start text-wrap leading-6 lg:leading-7 text-base lg:text-lg text-black">
                 <span className="font-bold">Manpower Outsourcing:&nbsp;</span>
                 Delivering efficient workforce solutions tailored to your
